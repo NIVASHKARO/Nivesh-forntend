@@ -15,8 +15,8 @@ import {
   useColorModeValue,
   useToast,
 } from "@chakra-ui/react";
-import React, { useState } from "react";
 import { dashboardURL, websiteURL } from "../env";
+import React, { useState } from "react";
 import { requestPin, sendLoginOtp, verifyLoginOtp } from "../api/apis";
 
 import Footer from "../components/Footer";

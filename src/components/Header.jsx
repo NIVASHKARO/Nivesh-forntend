@@ -22,7 +22,7 @@ import {
   useDisclosure,
 } from "@chakra-ui/react";
 import { FaMoon, FaSun } from "react-icons/fa";
-import { dashboardURL, websiteURL } from "../env";
+import { websiteURL } from "../env";
 
 import { BsFillCameraVideoFill } from "react-icons/bs";
 import { IoIosArrowDown } from "react-icons/io";
